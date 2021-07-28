@@ -5,7 +5,7 @@ LINK : https://serene-mountain-93005.herokuapp.com/  </br>
 Tech Stack: HTML, CSS, JS, NODE.JS, EXPRESS, BOOTSTRAP
 
 <h3> Motive </h3> 
-<p> The prime motivation behind the project was to built an newsletter signup website for a youtube news channel PUBLIC NEWS, which will allow users to subscribe to the channel newsletter and stay updated</p>
+<p> The prime motivation behind the project was to built an newsletter signup website for a youtube news channel PUBLIC NEWS, which would allow users to subscribe to the channel newsletter and stay updated</p>
 
 <h3>Time-Line</h3>
 <p>Read the documentation of bootstrap framework and selected best template for sigup page. Added bootstrap cdn and custom style sheet. Edited body section of signup.html page</p> 
