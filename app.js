@@ -27,7 +27,7 @@ app.post("/", function (req, res) {
   };
   var jsonData = JSON.stringify(data);
 
-  var url = "https://us6.api.mailchimp.com/3.0/lists/" //+ secrets.listID();
+  var url = "https://us6.api.mailchimp.com/3.0/lists/" + secrets.listID();
   var option = {
     method: "POST",
     headers: {
