@@ -1,4 +1,3 @@
-# Newsletter-Signup
 <h2> NEWSLETTER SIGNUP - PUBLIC NEWS</h2>
 A website enabling end-user to subscribe to the newsletters from the host by signing up. The project focusses on  implementing Full Stack Web Development using Node.js and Express as backend services along with use of request module for working with third party APIs. It is deployed on Heroku. </br>
 LINK : https://serene-mountain-93005.herokuapp.com/  </br>
