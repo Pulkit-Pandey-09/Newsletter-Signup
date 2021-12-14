@@ -29,5 +29,9 @@ Tech Stack: HTML, CSS, JS, NODE.JS, EXPRESS, BOOTSTRAP
 ### Failure Page-
 <img alt="failure-image" src="IMAGES/failure page.PNG">
 
+### Mailchimp-
+<img alt="mailchimp1-image" src="IMAGES/mailchimp1.PNG">
+<img alt="mailchimp2-image" src="IMAGES/mailchimp2.PNG">
+
 ## Acknowledgements:
 The project is inspired by Angela Yu - Web development bootcamp.
